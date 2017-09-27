@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" lang="en-us">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/arquivos/style.min.css"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css" />
+	<title>Pierre Cardin</title>
+</head>
+<body>
+
+	<!--Header-->
+	<vtex:template id="01-header" />
+	<!--./Header-->
+
+	<div class="row reset-row">
+		<div class="banner-mobile col-sm-12 col-xs-12 col-reset">
+			<div><img src="/arquivos/bannerMobile.png"/></div>
+			<div><img src="/arquivos/bannerMobile.png"/></div>
+			<div><img src="/arquivos/bannerMobile.png"/></div>
+			<div><img src="/arquivos/bannerMobile.png"/></div>
+		</div>
+	</div>
+	<div class="row reset-row">
+		<div class="lancamentos-mobile col-sm-12 col-xs-12 col-reset">
+			<vtex:contentPlaceHolder id="colecao-lancamentos" />
+		</div>
+	</div>
+
+	<div class="row reset-row">
+		<div class="destaques-mobile col-sm-12 col-xs-12 col-reset">
+			<vtex:contentPlaceHolder id="colecao-destaques" />
+		</div>
+	</div>
+	
+	<!--Footer-->
+	<vtex:template id="01-footer" />
+	<!--./Footer-->
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script src="/arquivos/jsMobile.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js"></script>
+</body>
+</html>

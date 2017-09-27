@@ -1,0 +1,72 @@
+.prateleira-basica h2{
+	text-align: center;
+	margin: 0 auto;
+	font-weight: 300;
+}
+
+.prateleira-basica img {
+	width: 100%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+}
+
+.prateleira-basica .title {
+	font-weight: 700;
+	color: $cor-nome-produto;
+	float: right;
+	font-size: 13px;
+	text-transform: uppercase;
+	text-align: left;
+}
+
+.lancamentos-mobile {
+	margin-top: 30px;
+}
+
+.valor-por {
+	padding-top: 10px;
+}
+
+.banner-mobile {
+	margin-top: 15px;
+}
+
+#buscar {
+	margin-top: 10px;
+}
+
+.destaques-mobile {
+	margin-top: 10px;
+}
+
+.slick-slide img {
+	width: 100%;
+}
+
+.destques .preco {
+  width: 100px!important;
+}
+
+.lancamentos-mobile ul {
+	padding: 10px;
+	margin: 0 auto;
+}
+
+.homeMob .full {
+	width: 100%;
+	display: block;
+	float: left;
+}
+
+.prateleira-basica .descricao {
+	display: none;
+}
+
+.slick-next {
+	right: -1%;
+}
+
+.slick-previus {
+	right: 0px!important;
+}

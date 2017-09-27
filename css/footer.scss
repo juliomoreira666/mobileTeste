@@ -1,0 +1,1074 @@
+//Footer
+@media screen and (max-width:1024px) {
+  footer .center {
+    width: 100%;
+    padding-left: 0!important
+  }
+  footer .sprite-selo_ebit {
+    margin-right: 0
+  }
+  footer .sprite-selo_digicert {
+    margin-left: 45px
+  }
+  footer .endereco {
+    position: relative
+  }
+  footer .endereco li:first-child {
+    width: 160px;
+    margin: 0 auto;
+    display: block
+  }
+  footer .endereco .logo {
+    width: 173px;
+    text-align: center;
+    float: none!important;
+    position: absolute;
+    left: 50%;
+    margin-left: -135px;
+    top: -40px
+  }
+  footer .copyright {
+    text-align: center
+  }
+  footer .selos {
+    margin-bottom: 30px
+  }
+  footer .sobre p {
+    width: 96%!important;
+    text-align: center;
+    margin-left: 2%
+  }
+  footer .sobre .sprite-logo_branco {
+    padding-top: 0!important;
+    margin: 0 auto 20px!important;
+    display: block!important
+  }
+  footer .blc_newsletter .form-newsletter:after,
+  footer .blc_newsletter .form-newsletter:before {
+    content: "";
+    display: table
+  }
+  footer .redes_sociais {
+    width: 98%;
+    margin: 10px auto!important
+  }
+  footer .redes_sociais a {
+    min-width: 300px;
+    width: 300px;
+    min-height: 56px
+  }
+  footer .redes_sociais .sprite-facebook_forher:before {
+    background-image: url('/arquivos/forher-face-mobile.jpg');
+    background-repeat: no-repeat;
+    height: 56px;
+    width: 300px;
+    background-position: 0 0
+  }
+  footer .redes_sociais .sprite-facebook_forhim:before {
+    background-image: url('/arquivos/forhim-face-mobile.jpg');
+    background-repeat: no-repeat;
+    height: 56px;
+    min-height: 56px;
+    width: 300px;
+    background-position: 0 0
+  }
+  footer .redes_sociais .sprite-instagram:before {
+    background-image: url('/arquivos/pierre-instagram.jpg');
+    background-repeat: no-repeat;
+    height: 56px;
+    min-height: 56px;
+    width: 300px;
+    background-position: 0 0
+  }
+  footer ul#title .atendimento,
+  footer ul#title .informacoes {
+    padding-left: 1px;
+    padding-right: 1px
+  }
+  footer ul#title .atendimento {
+    margin-top: 30px!important;
+    padding-left: 3px
+  }
+  footer ul#title li a {
+    font-size: 16px
+  }
+  footer .blc_newsletter .radio-news {
+    margin-right: 0;
+    width: 100%;
+    text-align: center
+  }
+  footer .blc_newsletter .form-newsletter:after {
+    clear: both
+  }
+  footer .blc_newsletter .form-newsletter input[type=text] {
+    width: 98%;
+    margin-left: 1%;
+    margin-right: 0
+  }
+  footer .blc_newsletter .form-newsletter input[type=submit] {
+    float: right;
+    margin-right: 1%
+  }
+  footer .blc_newsletter .newsletter h3 {
+    text-align: center
+  }
+  footer .blc_newsletter .newsletter p {
+    padding: 0 30px;
+    text-align: center
+  }
+}
+
+footer {
+  font-family: "Source Sans Pro";
+  background: #1f1f1f
+}
+
+footer .error label,
+footer .success label {
+  color: #fff
+}
+
+footer .blc_newsletter {
+  background: #111;
+  border-bottom: 1px solid #fff
+}
+
+footer .blc_newsletter .newsletter h3 {
+  padding-top: 10px;
+  font-size: 15px;
+  color: #fff;
+  font-weight: 600;
+  padding-bottom: 5px
+}
+
+footer .blc_newsletter .newsletter p {
+  padding-bottom: 10px;
+  color: #fff;
+  font-size: 1.3em;
+  font-weight: 200
+}
+
+footer .blc_newsletter .form-newsletter {
+  padding-bottom: 25px
+}
+
+footer .blc_newsletter .form-newsletter input[type=submit],
+footer .blc_newsletter .form-newsletter input[type=text] {
+  display: inline-block;
+  vertical-align: top
+}
+
+footer .blc_newsletter .form-newsletter input[type=text] {
+  width: 330px;
+  height: 33px;
+  margin-top: 10px;
+  padding-left: 10px;
+  border: none;
+  margin-right: 10px
+}
+
+footer .blc_newsletter .form-newsletter input[type=submit] {
+  margin-top: 10px;
+  border: none;
+  color: #fff;
+  background: #00a651;
+  width: 127px;
+  height: 33px;
+  font-size: 15px;
+  font-weight: 700
+}
+
+footer .footer,
+footer .pos-footer {
+  background-color: #fff
+}
+
+footer .blc_newsletter .radio-news {
+  display: inline-block;
+  margin-right: 50px
+}
+
+footer .blc_newsletter .radio-news label {
+  font-size: 15px;
+  font-weight: 200;
+  color: #fff;
+  margin-right: 30px
+}
+
+footer .copyright {
+  border-top: 1px solid #fff;
+  padding-top: 10px;
+  padding-bottom: 15px
+}
+
+.btnComprejunto footer label,
+footer .btnComprejunto label,
+footer .full {
+  width: 100%;
+  margin-bottom: 0;
+  color: #fff;
+  font-family: "Source Sans Pro";
+  font-size: 18px
+}
+
+.btnComprejunto footer label #full,
+footer .btnComprejunto label #full,
+footer .full #full {
+  width: 55%;
+  margin-top: 30px
+}
+
+.btnComprejunto footer label #full #bandeiras,
+footer .btnComprejunto label #full #bandeiras,
+footer .full #full #bandeiras {
+  padding-top: 105px;
+  float: left
+}
+
+.btnComprejunto footer label .sobre,
+footer .btnComprejunto label .sobre,
+footer .full .sobre {
+  width: 100%;
+  max-width: 745px;
+  margin-top: 25px
+}
+
+.comprejunto .productImage img,
+.imagensloja .box-banner img,
+.segura_kits .foto img {
+  max-width: 100%;
+  max-height: 100%
+}
+
+.btnComprejunto footer label .sobre .sprite-logo_branco,
+footer .btnComprejunto label .sobre .sprite-logo_branco,
+footer .full .sobre .sprite-logo_branco {
+  width: 240px;
+  margin-right: 60px;
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 40px
+}
+
+.btnComprejunto footer label .sobre p,
+footer .btnComprejunto label .sobre p,
+footer .full .sobre p {
+  display: inline-block;
+  width: 340px;
+  color: #d4d4d4;
+  padding-top: 25px
+}
+
+.btnComprejunto footer label .redes_sociais,
+footer .btnComprejunto label .redes_sociais,
+footer .full .redes_sociais {
+  margin-top: -140px
+}
+
+.btnComprejunto footer label .redes_sociais .title,
+footer .btnComprejunto label .redes_sociais .title,
+footer .full .redes_sociais .title {
+  font-weight: 700;
+  margin-bottom: 25px
+}
+
+.btnComprejunto footer label .redes_sociais a,
+footer .btnComprejunto label .redes_sociais a,
+footer .full .redes_sociais a {
+  display: block;
+  margin-bottom: 10px
+}
+
+footer #title {
+  display: block;
+  float: left;
+  font-size: 18px;
+  padding-top: 30px
+}
+
+footer #title>li {
+  float: left
+}
+
+footer #title .title {
+  font-weight: 700;
+  margin-bottom: 25px
+}
+
+footer .footer,
+footer .pre-footer {
+  width: 100%;
+  height: 36px;
+  color: #000;
+  padding-top: 12px;
+  padding-bottom: 17px;
+  margin-top: 0;
+  margin-bottom: 0
+}
+
+footer #title .title a,
+footer #title .title p {
+  font-size: 18px
+}
+
+footer #border,
+footer #border2 {
+  padding-left: 25px;
+  padding-right: 30px
+}
+
+footer .empresa {
+  padding-left: 3px;
+  padding-right: 51px
+}
+
+footer .atendimento {
+  padding-left: 67px;
+  padding-right: 67px;
+  margin-top: 0!important
+}
+
+footer .atendimento li a,
+footer .atendimento li p {
+  font-size: 18px;
+  font-family: "Source Sans Pro";
+  font-weight: 300;
+  color: #d4d4d4;
+  margin: 0!important
+}
+
+footer .atendimento li h1 {
+  font-weight: 700;
+  line-height: 28px
+}
+
+footer .social {
+  display: inline-block;
+  padding-bottom: 40px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+  width: 420px;
+  height: 400px
+}
+
+footer .social>div {
+  float: right;
+  width: 100%;
+  height: 100%;
+  overflow: hidden
+}
+
+footer .social>div .fb_iframe_widget {
+  float: right
+}
+
+footer #bandeiras {
+  padding-top: 20px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+footer #bandeiras>.bandeiras {
+  display: block;
+  float: left;
+  width: 100%;
+  padding: 0px;
+}
+
+footer #bandeiras>.bandeiras li {
+  padding-left: 0;
+  margin-left: 10px;
+  float: left;
+  height: 39px
+}
+
+footer #certificados {
+  display: block
+}
+
+footer ul.atendimento li p+p {
+  margin-top: 7px
+}
+
+footer .empresa li+li,
+footer .informacoes li+li {
+  margin-top: 7px;
+  font-size: 18px
+}
+
+footer .logo {
+  float: right!important;
+  padding-top: 15px
+}
+
+footer .logo a {
+  float: left
+}
+
+footer ul#title li a {
+  color: #d4d4d4;
+  font-weight: 300
+}
+
+footer #email {
+  margin-top: 30px;
+  color: #000;
+  padding-left: 20px
+}
+
+footer #email p {
+  padding-left: 0
+}
+
+footer .endereco {
+  font-size: 16px;
+  margin-bottom: 10px;
+  float: left;
+  width: 100%;
+  font-weight: 300;
+  color: #fff
+}
+
+footer .endereco a {
+  color: #000;
+  text-decoration: underline
+}
+
+footer .endereco li {
+  padding-top: 10px;
+  float: none;
+  width: 50%;
+  display: inline-block;
+  position: relative
+}
+
+footer .endereco li.logo a {
+  position: absolute;
+  top: 0;
+  right: 0
+}
+
+footer .endereco li.logo .sprite-logo_vtex {
+  right: 50px
+}
+
+footer .sprite-local:before {
+  left: 0
+}
+
+footer .pos-footer {
+  display: inline-block;
+  width: 100%;
+  border-top: 1px solid #000
+}
+
+footer .pos-footer #pos-footer {
+  font-size: 16px;
+  color: #2d2d2d
+}
+
+footer .pos-footer #pos-footer ul {
+  display: block;
+  padding-bottom: 14px;
+  padding-top: 14px;
+  font-weight: 300
+}
+
+footer .pos-footer #pos-footer ul>li {
+  float: left
+}
+
+footer .pos-footer #pos-footer ul>li+li {
+  float: right
+}
+
+footer .selos {
+  display: inline-block;
+  float: left;
+  width: 100%
+}
+
+footer .selos>li {
+  float: left
+}
+
+footer .selos .ssl-link {
+  font-size: 0!important
+}
+
+footer #selos {
+  margin-top: 50px;
+  margin-bottom: 25px
+}
+
+footer .selo-abcomm {
+  width: 90px
+}
+
+footer .selo-abcomm a img {
+  width: 100%;
+  height: auto
+}
+
+footer .selo-clube-ecommerce {
+  margin-left: 15px;
+  width: 120px
+}
+
+footer .selo-clube-ecommerce a img {
+  width: 100%;
+  height: auto
+}
+
+footer .selo-loja-confiavel {
+  margin-left: 15px;
+  width: 88px
+}
+
+footer .selo-loja-confiavel a img {
+  width: 100%;
+  height: auto
+}
+
+footer .selo-clearsale {
+  margin-left: 15px;
+  width: 115px;
+  padding-top: 40px
+}
+
+footer .selo-clearsale a img {
+  width: 100%;
+  height: auto
+}
+
+footer .sprite-selo_ebit {
+  margin-left: 15px
+}
+
+footer .sprite-logo_vtex {
+  margin-right: 35px
+}
+
+footer .apiFacebook {
+  width: 220px;
+  height: 260px
+}
+
+footer .apiFacebook h4 {
+  font-size: 16px;
+  color: #fff;
+  margin-bottom: 5px
+}
+
+footer .social {
+  margin-top: 33px
+}
+
+footer .full2 {
+  margin-top: -190px;
+  background: 0 0
+}
+
+footer .sprite-logo-footer {
+  margin-left: 215px;
+  top: 50px;
+  font-size: 13px;
+  color: #000
+}
+
+footer .sprite-logo-footer:before {
+  left: -215px;
+  top: -50px
+}
+
+footer .sprite-logo-footer p {
+  font-weight: 300
+}
+
+footer #email{
+  text-decoration: none;
+}
+
+.sprite-bandeira_amex {
+  position: relative;
+  min-width: 47px;
+  min-height: 39px
+}
+
+.sprite-bandeira_amex:before {
+  position: absolute;
+  background-position: 0 -380px;
+  width: 47px;
+  height: 39px
+}
+
+.sprite-bandeira_aura {
+  position: relative;
+  min-width: 48px;
+  min-height: 38px
+}
+
+.sprite-bandeira_aura:before {
+  position: absolute;
+  background-position: -247px -339px;
+  width: 48px;
+  height: 38px
+}
+
+.sprite-bandeira_bb {
+  position: relative;
+  min-width: 49px;
+  min-height: 38px
+}
+
+.sprite-bandeira_bb:before {
+  position: absolute;
+  background-position: -101px -339px;
+  width: 49px;
+  height: 38px
+}
+
+.sprite-bandeira_boleto {
+  position: relative;
+  min-width: 48px;
+  min-height: 38px
+}
+
+.sprite-bandeira_boleto:before {
+  position: absolute;
+  background-position: -343px -339px;
+  width: 48px;
+  height: 38px
+}
+
+.sprite-bandeira_bradesco:before,
+.sprite-bandeira_diners:before {
+  width: 49px
+}
+
+.sprite-bandeira_bradesco {
+  position: relative;
+  min-width: 49px;
+  min-height: 38px
+}
+
+.sprite-bandeira_bradesco:before {
+  position: absolute;
+  background-position: -150px -339px;
+  height: 38px
+}
+
+.sprite-bandeira_diners {
+  position: relative;
+  min-width: 49px;
+  min-height: 39px
+}
+
+.sprite-bandeira_diners:before {
+  position: absolute;
+  background-position: -395px -219px;
+  height: 39px
+}
+
+.sprite-bandeira_elo:before,
+.sprite-bandeira_hipercard:before,
+.sprite-bandeira_itau:before {
+  height: 38px
+}
+
+.sprite-bandeira_elo {
+  position: relative;
+  min-width: 48px;
+  min-height: 38px
+}
+
+.sprite-bandeira_elo:before {
+  position: absolute;
+  background-position: -295px -339px;
+  width: 48px
+}
+
+.sprite-bandeira_hipercard {
+  position: relative;
+  min-width: 47px;
+  min-height: 38px
+}
+
+.sprite-bandeira_hipercard:before {
+  position: absolute;
+  background-position: -391px -339px;
+  width: 47px
+}
+
+.sprite-bandeira_itau {
+  position: relative;
+  min-width: 48px;
+  min-height: 38px
+}
+
+.sprite-bandeira_itau:before {
+  position: absolute;
+  background-position: -199px -339px;
+  width: 48px
+}
+
+.sprite-bandeira_master:before,
+.sprite-bandeira_visa:before,
+.sprite-bandeira_visa_eletron:before {
+  height: 39px
+}
+
+.sprite-bandeira_master {
+  position: relative;
+  min-width: 48px;
+  min-height: 39px
+}
+
+.sprite-bandeira_master:before {
+  position: absolute;
+  background-position: -239px -259px;
+  width: 48px
+}
+
+.sprite-bandeira_visa {
+  position: relative;
+  min-width: 49px;
+  min-height: 39px
+}
+
+.sprite-bandeira_visa:before {
+  position: absolute;
+  background-position: -396px -94px;
+  width: 49px
+}
+
+.sprite-bandeira_visa_eletron {
+  position: relative;
+  min-width: 48px;
+  min-height: 39px
+}
+
+.sprite-bandeira_visa_eletron:before {
+  position: absolute;
+  background-position: -287px -259px;
+  width: 48px
+}
+
+.sprite-carrinho_mobile {
+  position: relative;
+  min-width: 30px;
+  min-height: 31px
+}
+
+.sprite-carrinho_mobile:before {
+  position: absolute;
+  background-position: -271px -306px;
+  width: 30px;
+  height: 31px
+}
+
+.sprite-facebook_forher:before,
+.sprite-facebook_forhim:before {
+  width: 361px;
+  height: 70px
+}
+
+.sprite-facebook_forher {
+  position: relative;
+  min-width: 361px;
+  min-height: 70px
+}
+
+.sprite-facebook_forher:before {
+  position: absolute;
+  background-position: 0 -70px
+}
+
+.sprite-facebook_forhim {
+  position: relative;
+  min-width: 361px;
+  min-height: 70px
+}
+
+.sprite-facebook_forhim:before {
+  position: absolute;
+  background-position: 0 0
+}
+
+.sprite-ico-atendimento-mobile {
+  position: relative;
+  min-width: 22px;
+  min-height: 22px
+}
+
+.sprite-ico-atendimento-mobile:before {
+  position: absolute;
+  background-position: -418px -133px;
+  width: 22px;
+  height: 22px
+}
+
+.sprite-ico-login-mobile {
+  position: relative;
+  min-width: 19px;
+  min-height: 23px
+}
+
+.sprite-ico-login-mobile:before {
+  position: absolute;
+  background-position: -429px -178px;
+  width: 19px;
+  height: 23px
+}
+
+.sprite-ico-pedidos-mobile:before,
+.sprite-ico-sobre-mobile:before {
+  height: 22px
+}
+
+.sprite-ico-pedidos-mobile {
+  position: relative;
+  min-width: 20px;
+  min-height: 22px
+}
+
+.sprite-ico-pedidos-mobile:before {
+  position: absolute;
+  background-position: -429px -156px;
+  width: 20px
+}
+
+.sprite-ico-sobre-mobile {
+  position: relative;
+  min-width: 22px;
+  min-height: 22px
+}
+
+.sprite-ico-sobre-mobile:before {
+  position: absolute;
+  background-position: -396px -133px;
+  width: 22px
+}
+
+.sprite-ico_carrinho {
+  position: relative;
+  min-width: 30px;
+  min-height: 31px
+}
+
+.sprite-ico_carrinho:before {
+  position: absolute;
+  background-position: -301px -306px;
+  width: 30px;
+  height: 31px
+}
+
+.sprite-ico_mail_amigo {
+  position: relative;
+  min-width: 20px;
+  min-height: 14px
+}
+
+.sprite-ico_mail_amigo:before {
+  position: absolute;
+  background-image: url('/arquivos/sprite.png');
+  background-position: -425px -258px;
+  width: 20px;
+  height: 14px;
+  content: ""
+}
+
+.sprite-ico_medida {
+  position: relative;
+  min-width: 17px;
+  min-height: 17px
+}
+
+.sprite-ico_medida:before {
+  position: absolute;
+  background-position: -429px -201px;
+  width: 17px;
+  height: 17px
+}
+
+.sprite-instagram {
+  position: relative;
+  min-width: 361px;
+  min-height: 69px
+}
+
+.sprite-instagram:before {
+  position: absolute;
+  background-position: 0 -140px;
+  width: 361px;
+  height: 69px
+}
+
+.sprite-logo_branco {
+  position: relative;
+  min-width: 240px;
+  min-height: 50px
+}
+
+.sprite-logo_branco:before {
+  position: absolute;
+  background-position: 0 -209px;
+  width: 240px;
+  height: 50px
+}
+
+.sprite-logo_mobile {
+  position: relative;
+  min-width: 170px;
+  min-height: 33px
+}
+
+.sprite-logo_mobile:before {
+  position: absolute;
+  background-position: -101px -306px;
+  width: 170px;
+  height: 33px
+}
+
+.sprite-logo_preto {
+  position: relative;
+  min-width: 239px;
+  min-height: 47px
+}
+
+.sprite-logo_preto:before {
+  position: absolute;
+  background-position: 0 -259px;
+  width: 239px;
+  height: 47px
+}
+
+.sprite-logo_sanders:before,
+.sprite-logo_vtex:before {
+  height: 23px
+}
+
+.sprite-logo_sanders {
+  position: relative;
+  min-width: 77px;
+  min-height: 23px
+}
+
+.sprite-logo_sanders:before {
+  position: absolute;
+  background-position: -361px -282px;
+  width: 77px
+}
+
+.sprite-logo_vtex {
+  position: relative;
+  min-width: 96px;
+  min-height: 23px
+}
+
+.sprite-logo_vtex:before {
+  position: absolute;
+  background-position: -240px -209px;
+  width: 96px
+}
+
+.sprite-menu_mobile {
+  position: relative;
+  min-width: 30px;
+  min-height: 16px
+}
+
+.sprite-menu_mobile:before {
+  position: absolute;
+  background-position: -395px -258px;
+  width: 30px;
+  height: 16px
+}
+
+.sprite-selo_digicert {
+  position: relative;
+  min-width: 101px;
+  min-height: 74px
+}
+
+.sprite-selo_digicert:before {
+  position: absolute;
+  background-position: 0 -306px;
+  width: 101px;
+  height: 74px
+}
+
+.sprite-selo_ebit {
+  position: relative;
+  min-width: 88px;
+  min-height: 94px
+}
+
+.sprite-selo_ebit:before {
+  position: absolute;
+  background-position: -361px 0;
+  width: 88px;
+  height: 94px
+}
+
+.sprite-seta_next_banner {
+  position: relative;
+  min-width: 34px;
+  min-height: 63px
+}
+
+.sprite-seta_next_banner:before {
+  position: absolute;
+  background-position: -361px -219px;
+  width: 34px;
+  height: 63px
+}
+
+.sprite-seta_next_carousel {
+  position: relative;
+  min-width: 35px;
+  min-height: 62px
+}
+
+.sprite-seta_next_carousel:before {
+  position: absolute;
+  background-position: -361px -94px;
+  width: 35px;
+  height: 62px
+}
+
+.sprite-seta_prev_banner:before,
+.sprite-seta_prev_carousel:before {
+  width: 34px;
+  height: 63px
+}
+
+.sprite-seta_prev_banner {
+  position: relative;
+  min-width: 34px;
+  min-height: 63px
+}
+
+.sprite-seta_prev_banner:before {
+  position: absolute;
+  background-position: -361px -156px
+}
+
+.sprite-seta_prev_carousel {
+  position: relative;
+  min-width: 34px;
+  min-height: 63px
+}
+
+.menu-lateral h3,
+.menu-lateral h5 {
+  min-height: 40px;
+  text-transform: uppercase
+}
+
+.sprite-seta_prev_carousel:before {
+  position: absolute;
+  background-position: -395px -156px
+}
